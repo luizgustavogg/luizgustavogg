@@ -12,8 +12,8 @@
 
 <div align="center">
   <a href="https://github.com/luizgustavogg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizgustavogg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgustavogg&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luizgustavogg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgustavogg&layout=compact&langs_count=7&theme=dracula"/>
     <h2>Linguagens que eu uso</h2>
     <div style="display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
