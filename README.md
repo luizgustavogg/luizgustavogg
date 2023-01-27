@@ -9,7 +9,7 @@
 <br>
 <div>
   <a href="https://github.com/luizgustavogg">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=luizustavogg"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgustavogg&langs_count=8"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luizgustavogg&show_icons=true&theme=dracula"/>
 </div>
 <div>
