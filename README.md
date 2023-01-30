@@ -8,6 +8,7 @@
 </div>
 <br>
 <div>
+  
   <a href="https://github.com/luizgustavogg">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luizgustavogg&show_icons=true&theme=dracula"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgustavogg&layout=compact&langs_count=6&theme=dracula"/>
