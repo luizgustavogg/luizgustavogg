@@ -1,4 +1,7 @@
-<div>  
+<div>
+  <div align="center" style="backround: #161616">
+    <h1 style="color: #fff">Eu transformo ideias em código."</h1>
+  </div>
   <h1>Olá, me chamo Luiz Gustavo!👋</h1> 
   <a href="https://instagram.com/luizgustavo.gg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-gustavo-de-sousa-marques-749b70240/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
@@ -11,7 +14,7 @@
   
   <a href="https://github.com/luizgustavogg">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luizgustavogg&show_icons=true&theme=dracula"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgustavogg&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgustavogg&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 <div>
    <br>
