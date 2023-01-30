@@ -1,5 +1,5 @@
 <div>
-  <div align="center" style="background: #161616">
+  <div align="center" style="background: #000; padding : 10px;">
     <h1 style="color: #fff">Eu transformo ideias em código."</h1>
   </div>
   <h1>Olá, me chamo Luiz Gustavo!👋</h1> 
@@ -27,6 +27,3 @@
 </div>
 <br/> 
 </div>
-  
-  
-  
