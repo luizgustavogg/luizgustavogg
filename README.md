@@ -2,7 +2,7 @@
   <div align="center" style="padding: 10px; margin-bottom: 50px;">
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=header"/>
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Luiz+Gustavo!+👋;Tenho+17+anos🎉;Sou+de+Mombaça+-+CE;Sou+Desenvolvedor+Back-end+-+PHP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Luiz+Gustavo!+👋;Tenho+18+anos🎉;Sou+de+Mombaça+-+CE;Sou+Desenvolvedor+Back-end+-+PHP)](https://git.io/typing-svg)
   </div>
 <!--   <h1>Olá, me chamo Luiz Gustavo!👋</h1>  -->
 <div style="margin-bottom: 30px;">
